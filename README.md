@@ -43,6 +43,6 @@ The result of 3 + 7 is 10
 ## Committing your Changes
 Once you are done, please commit (i.e. "save") your changes with these git commands.
 Run them one at a time.
-1. git add hello.py
-2. git commit -m "Completed first assignment"
-3. git push
+1. `git add hello.py`
+2. `git commit -m "Completed first assignment"`
+3. `git push`
