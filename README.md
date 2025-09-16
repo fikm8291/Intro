@@ -10,8 +10,6 @@ This is just a **practice assignment** to help you get familiar with:
 
 > 💡 Don't worry, this is just for practice. You don’t need to know Git or Python yet!
 
----
-
 ## 🔧 What to Do
 
 1. Open the file called `hello.py` in this repository.
@@ -41,3 +39,10 @@ Hello, my name is Amina!
 ```
 The result of 3 + 7 is 10
 ```
+
+## Committing your Changes
+Once you are done, please commit (i.e. "save") your changes with these git commands.
+Run them one at a time.
+1. git add hello.py
+2. git commit -m "Completed first assignment"
+3. git push
