@@ -17,7 +17,7 @@ This is just a **practice assignment** to help you get familiar with:
 3. Use the terminal (bottom panel) to run your code by typing:
 
 ```bash
-python3 hello.py
+python hello.py
 ```
 
 4. If it doesn’t work the first time — don’t panic. Read the error, fix it, and try again.
